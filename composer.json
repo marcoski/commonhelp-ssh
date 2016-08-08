@@ -23,6 +23,6 @@
     },
     "minimum-stability": "dev",
     "autoload": {
-        "psr-4": { "Commonhelp\\Ssh": "" }
+        "psr-4": { "Commonhelp\\Ssh\\": "" }
     }
 }
