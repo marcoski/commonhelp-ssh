@@ -4,7 +4,7 @@
     "type": "library",
     "require": {
         "php": ">=5.3.2",
-        "commonhelp/resource": "dev-0.5.x"
+        "commonhelp/resource": "dev-0.5"
     },
     "license": "MIT",
     "authors": [
