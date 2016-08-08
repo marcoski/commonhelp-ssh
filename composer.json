@@ -13,7 +13,7 @@
     ],
     "repositories": [
         {
-            "type": "git",
+            "type": "vcs",
             "url": "https://github.com/marcoski/commonhelp-resource"
         }
     ],
